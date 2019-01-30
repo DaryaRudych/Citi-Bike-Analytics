@@ -1,8 +1,8 @@
-# Tableau Assignment - Citi Bike Analytics
+# Citi Bike Analytics
 
 ## Background
 
-![Citi-Bikes](https://www.google.com/search?q=citibike&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjZ5ILf4pXgAhVLA6wKHUxGD1MQ_AUIECgD#imgrc=we07t4tg2GGoWM:)
+![Citi-Bikes](Citi-Bike-Analytics/logo-citi-bike-jc-1024x509.png)
 
 Congratulations on your new job! As the new lead analyst for the [New York Citi Bike](https://en.wikipedia.org/wiki/Citi_Bike) Program, you are now responsible for overseeing the largest bike sharing program in the United States. In your new role, you will be expected to generate regular reports for city officials looking to publicize and improve the city program.
 
