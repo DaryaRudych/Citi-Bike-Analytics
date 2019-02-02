@@ -2,7 +2,7 @@
 
 ## Background
 
-![Citi-Bikes](Citi-Bike-Analytics/logo-citi-bike-jc-1024x509.png)
+![Citi-Bikes](https://github.com/DaryaRudych/Citi-Bike-Analytics/blob/master/logo-citi-bike-jc-1024x509.png)
 
 Since 2013, the Citi Bike Program has implemented a robust infrastructure for collecting data on the program's utilization. Through the team's efforts, each month bike data is collected, organized, and made public on the Citi Bike Data webpage. With the abundance of data, I am to build a set of data reports to get answers to some of the questions CitiBike often gets asked. Where do Citi Bikers ride? When do they ride? How far do they go? Which stations are most popular? What days of the week are most rides taken on? These are the questions that CitiBike might want to answer to improve their business. This website presents the results of my exploration of CitiBike data for Jersey City.
 
