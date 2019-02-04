@@ -1,4 +1,5 @@
 # Citi Bike Analytics
+Also available at https://daryarudych.github.io/Citi-Bike-Analytics/#
 
 ## Background
 
@@ -45,9 +46,6 @@ Since 2013, the Citi Bike Program has implemented a robust infrastructure for co
 3. Plot a static map that shows all bike stations with a visual indication of the most popular locations to start and end a journey with zip code data overlaid on top.
 
 4. Build a Tableau Dashboard that can be used by and clear to city officials, public administrators, and heads of New Jersey City departments. Present data and analysis in a way that is focused, concise, easy-to-understand, and visually compelling. 
-
-## Web Dashboard 
-Web dashboard is available here https://daryarudych.github.io/Citi-Bike-Analytics/
 
 ## Copyright
 
